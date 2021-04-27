@@ -1,0 +1,11 @@
+C:\Users\merwe\source\repos\RunSQLiteScript\bin\Debug\x86\sqlite3.dll
+C:\Users\merwe\source\repos\RunSQLiteScript\bin\Debug\x64\sqlite3.dll
+C:\Users\merwe\source\repos\RunSQLiteScript\bin\Debug\RunSQLiteScript.exe.config
+C:\Users\merwe\source\repos\RunSQLiteScript\bin\Debug\RunSQLiteScript.exe
+C:\Users\merwe\source\repos\RunSQLiteScript\bin\Debug\RunSQLiteScript.pdb
+C:\Users\merwe\source\repos\RunSQLiteScript\bin\Debug\System.Data.SQLite.dll
+C:\Users\merwe\source\repos\RunSQLiteScript\obj\Debug\RunSQLiteScript.csprojAssemblyReference.cache
+C:\Users\merwe\source\repos\RunSQLiteScript\obj\Debug\RunSQLiteScript.csproj.CopyComplete
+C:\Users\merwe\source\repos\RunSQLiteScript\obj\Debug\RunSQLiteScript.exe
+C:\Users\merwe\source\repos\RunSQLiteScript\obj\Debug\RunSQLiteScript.pdb
+C:\Users\merwe\source\repos\RunSQLiteScript\bin\Debug\System.Data.SQLite.xml
